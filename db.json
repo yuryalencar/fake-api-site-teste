@@ -1,4 +1,33 @@
 {
+  "header": {
+    "title": "Seus problemas de comunicação não podem esperar.",
+    "subtitle": "Descubra uma empresa de telefonia que resolve todos os seus desafios.",
+    "nextSection": "Conheça a Fiber Voice"
+  },
+  "aboutUs": {
+    "title": "Quem somos?",
+    "description": "A Fiber Voice é sua parceira confiável em serviços de telefonia com mais de uma década de dedicação e expertise no setor. Nosso compromisso é ir além das expectativas, oferecendo soluções abrangentes que impulsionam a comunicação e a conectividade para empresas.",
+    "actionLabel": "Nosso negócio é fundamentado em quatro pilares essenciais:",
+    "buttonLabel": "Fale conosco",
+    "products": [
+      {
+        "title": "Compromisso com a excelência",
+        "description": "Inovação estratégica e tradução de experiência e expertise em valor tangível para os clientes, resultando em soluções estratégicas precisas e adaptadas."
+      },
+      {
+        "title": "Parcerias Benéficas",
+        "description": "Estratégia de negócios centrada em parcerias, visando otimização de recursos, mitigação de riscos, exploração de oportunidades e construção de um caminho sólido para o sucesso sustentável."
+      },
+      {
+        "title": "Suporte confiável",
+        "description": "Atendimento consistente como pedras angulares para o sucesso, fortalecendo a confiança, contribuindo para a fidelização e satisfação do cliente."
+      },
+      {
+        "title": "Produtos agregados",
+        "description": "Estratégia poderosa para elevar a qualidade dos serviços, diferenciar-se no mercado e fomentar a lealdade, proporcionando uma experiência mais rica e satisfatória para os clientes."
+      }
+    ]
+  },
   "sectionPBX": {
     "title": "PBX IP",
     "content": "O PBX IP é um sistema de telefonia avançado que integra redes convencionais e VoIP por meio de redes de dados IP. Operando em uma plataforma avançada, proporciona uma solução completa e flexível para otimizar as comunicações empresariais com eficácia, oferecendo maior flexibilidade, seja com ou sem hardware adicional."
